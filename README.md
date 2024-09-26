@@ -1,7 +1,7 @@
 <div align="center">
-  video: https://youtu.be/0fYi8SGA20k
-  GitHub Code (give it a star ⭐): https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGotWE9kUmM1blFaWXhjT0JmTzBJaFVVcVpNZ3xBQ3Jtc0ttSkZ0ZXdFb0FTOXk4emEtWTZYM1lsT2xiN3I3VnpMbEJtY2hiVl9ZaUVFT0lXdUJMYklTQVQtdlUydXJnampsdF9BaUxrNE9qRm1ScUNhR2FKSE1VbkY1dEU1X2NZVDVfQ3A4R2t0eEw2VF94MHQ3UQ&q=https%3A%2F%2Fgist.github.com%2Fadrianhajdin%2Fb1d33c262941a7e21aad833a1cfc84b1&v=0fYi8SGA20k
-  GitHub Gist Code Snippets: https://gist.github.com/adrianhajdin/b1d33c262941a7e21aad833a1cfc84b1
+  video: https://youtu.be/0fYi8SGA20k <br />
+  GitHub Code (give it a star ⭐): https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGotWE9kUmM1blFaWXhjT0JmTzBJaFVVcVpNZ3xBQ3Jtc0ttSkZ0ZXdFb0FTOXk4emEtWTZYM1lsT2xiN3I3VnpMbEJtY2hiVl9ZaUVFT0lXdUJMYklTQVQtdlUydXJnampsdF9BaUxrNE9qRm1ScUNhR2FKSE1VbkY1dEU1X2NZVDVfQ3A4R2t0eEw2VF94MHQ3UQ&q=https%3A%2F%2Fgist.github.com%2Fadrianhajdin%2Fb1d33c262941a7e21aad833a1cfc84b1&v=0fYi8SGA20k <br />
+  GitHub Gist Code Snippets: https://gist.github.com/adrianhajdin/b1d33c262941a7e21aad833a1cfc84b1 <br />
   Assets, Components, Public folders: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDk1VUpQMFZQbFgybXRCNUtiM0QtcmUzQmEwZ3xBQ3Jtc0trazdIeC1BU1pELUZ0N2IySXl0MHZrWnlrTVdjT3c5aTYyYXRrRDJYUkMyakp6UXAyS1ppWkc3STJWRkh5MWt2ZXBVMVVoM2RCcTAyUXh1SlVwbU5rTWdjMVpiWHl4SjVJUjExdUR2eFlNakx1SXN4WQ&q=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1KVU8iaH0E_JFtShNiR3BgCSA3pawXY4Z%3Fusp%3Dshare_link&v=0fYi8SGA20k
 <div>
 <div align="center">
